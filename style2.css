@@ -1,0 +1,30 @@
+
+h1{
+  font-size: 250px;
+  color: darkred;
+  background: darkgrey;
+font-family: "times new roman";
+}
+
+
+html{
+  background: lightgrey;
+}
+
+a{
+  font-size: 50px;
+  color: darkred;
+}
+
+p{
+  color: darkred;
+}
+
+.first{
+  font-size: 100px;
+  background: 0;
+}
+
+.second{
+  font-size: 30px;
+}
